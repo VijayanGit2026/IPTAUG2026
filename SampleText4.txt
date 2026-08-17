@@ -1,1 +1,2 @@
-The text inside sampleTextFour...
+The text inside sampleTextFour...git init
+the data has been chanaged.
