@@ -19,5 +19,5 @@ test('get started link', async ({ page }) => {
 });
 
 //two lines added by vijayan
-console.log('MMTTrain - Merge test line 1');
-console.log('Merge test line 2');
+console.log('MMTTrain - Before Merge conflict');
+console.log('Before Merge conflict');
