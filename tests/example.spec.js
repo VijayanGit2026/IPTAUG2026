@@ -20,4 +20,4 @@ test('get started link', async ({ page }) => {
 
 //two lines added by vijayan
 console.log('MAIN - Before Merge conflict');
-console.log('Before Merge conflict');
+console.log('Before Merge conflict - Poll SCM Test');
