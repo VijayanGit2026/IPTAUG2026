@@ -19,9 +19,5 @@ test('get started link', async ({ page }) => {
 });
 
 //two lines added by vijayan
-<<<<<<< HEAD
 console.log('MAIN - Before Merge conflict');
-=======
-console.log('MMTTrain - Before Merge conflict');
->>>>>>> MMTTrain
 console.log('Before Merge conflict');
